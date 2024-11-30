@@ -1,5 +1,9 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
 .header {
-  max-width: 1200px;
   padding: 40px 20px;
   margin: 0 auto;
   display: flex;
@@ -22,6 +26,5 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
-
